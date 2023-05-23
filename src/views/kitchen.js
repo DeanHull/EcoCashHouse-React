@@ -13,11 +13,6 @@ const Kitchen = (props) => {
       </Helmet>
       <div className="kitchen-frame6">
         <img
-          alt="Rectangle1I157"
-          src="/external/rectangle1i157-gv0i-200w.png"
-          className="kitchen-rectangle1"
-        />
-        <img
           alt="BackArrowI157"
           src="/external/backarrowi157-78x.svg"
           className="kitchen-back-arrow"
