@@ -237,3 +237,7 @@
   position: absolute;
   text-decoration: none;
 }
+.bed2-next {
+  color: var(--dl-color-gray-black);
+  text-decoration: none;
+}

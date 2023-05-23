@@ -25,7 +25,7 @@ const Home = (props) => {
           Rooms
         </Link>
         <Link to="/compare" className="home-text3">
-          <span>Compare</span>
+          Compare
         </Link>
       </div>
     </div>

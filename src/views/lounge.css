@@ -239,3 +239,7 @@
   position: absolute;
   text-decoration: none;
 }
+.lounge-next {
+  color: var(--dl-color-gray-black);
+  text-decoration: none;
+}

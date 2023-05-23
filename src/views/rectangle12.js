@@ -13,7 +13,7 @@ const Rectangle12 = (props) => {
       <div className="rectangle12-dummy-container">
         <img
           alt="Rectangle121176"
-          src="/playground_assets/rectangle121176-layl.svg"
+          src="/external/rectangle121176-layl.svg"
           className="rectangle12-rectangle12"
         />
       </div>

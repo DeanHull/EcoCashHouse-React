@@ -14,22 +14,22 @@ const Kitchen = (props) => {
       <div className="kitchen-frame6">
         <img
           alt="Rectangle1I157"
-          src="/playground_assets/rectangle1i157-gv0i-200w.png"
+          src="/external/rectangle1i157-gv0i-200w.png"
           className="kitchen-rectangle1"
         />
         <img
           alt="BackArrowI157"
-          src="/playground_assets/backarrowi157-78x.svg"
+          src="/external/backarrowi157-78x.svg"
           className="kitchen-back-arrow"
         />
         <img
           alt="BackArrowI157"
-          src="/playground_assets/backarrowi157-pkah.svg"
+          src="/external/backarrowi157-pkah.svg"
           className="kitchen-back-arrow1"
         />
         <img
           alt="BackArrowI157"
-          src="/playground_assets/backarrowi157-qz2.svg"
+          src="/external/backarrowi157-qz2.svg"
           className="kitchen-back-arrow2"
         />
         <span className="kitchen-text">
@@ -44,12 +44,12 @@ const Kitchen = (props) => {
         </span>
         <img
           alt="Rectangle13I157"
-          src="/playground_assets/rectangle13i157-ugwf-200h.png"
+          src="/external/rectangle13i157-ugwf-200h.png"
           className="kitchen-rectangle13"
         />
         <img
           alt="Rectangle14I157"
-          src="/playground_assets/rectangle14i157-u4xo.svg"
+          src="/external/rectangle14i157-u4xo.svg"
           className="kitchen-rectangle14"
         />
         <span className="kitchen-text02">
@@ -60,12 +60,12 @@ const Kitchen = (props) => {
         </span>
         <img
           alt="BackArrowI157"
-          src="/playground_assets/backarrowi157-tpk.svg"
+          src="/external/backarrowi157-tpk.svg"
           className="kitchen-back-arrow3"
         />
         <img
           alt="BackArrowI157"
-          src="/playground_assets/backarrowi157-637p.svg"
+          src="/external/backarrowi157-637p.svg"
           className="kitchen-back-arrow4"
         />
         <span className="kitchen-text06">
@@ -80,12 +80,12 @@ const Kitchen = (props) => {
         </span>
         <img
           alt="Rectangle15I157"
-          src="/playground_assets/rectangle15i157-v4xw-200h.png"
+          src="/external/rectangle15i157-v4xw-200h.png"
           className="kitchen-rectangle15"
         />
         <img
           alt="Rectangle16I157"
-          src="/playground_assets/rectangle16i157-jtz2.svg"
+          src="/external/rectangle16i157-jtz2.svg"
           className="kitchen-rectangle16"
         />
         <span className="kitchen-text08">
@@ -97,7 +97,7 @@ const Kitchen = (props) => {
         <div className="kitchen-component3">
           <img
             alt="RoomRectangleI157"
-            src="/playground_assets/roomrectanglei157-e3m-200h.png"
+            src="/external/roomrectanglei157-e3m-200h.png"
             className="kitchen-room-rectangle"
           />
           <span className="kitchen-text12">
@@ -110,11 +110,17 @@ const Kitchen = (props) => {
         <Link to="/" className="kitchen-navlink">
           <img
             alt="image1I157"
-            src="/playground_assets/image1i157-z4j-200h.png"
+            src="/external/image1i157-z4j-200h.png"
             className="kitchen-image1"
           />
         </Link>
       </div>
+      <Link to="/bed1" className="kitchen-next button">
+        <span>
+          <span>Next</span>
+          <br></br>
+        </span>
+      </Link>
     </div>
   )
 }

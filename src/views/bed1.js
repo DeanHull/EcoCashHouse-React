@@ -14,17 +14,17 @@ const Bed1 = (props) => {
       <div className="bed1-frame3">
         <img
           alt="BackArrow1555"
-          src="/playground_assets/backarrow1555-yf02.svg"
+          src="/external/backarrow1555-yf02.svg"
           className="bed1-back-arrow"
         />
         <img
           alt="BackArrow1555"
-          src="/playground_assets/backarrow1555-qeaq.svg"
+          src="/external/backarrow1555-qeaq.svg"
           className="bed1-back-arrow1"
         />
         <img
           alt="BackArrow1555"
-          src="/playground_assets/backarrow1555-un0i.svg"
+          src="/external/backarrow1555-un0i.svg"
           className="bed1-back-arrow2"
         />
         <span className="bed1-text">
@@ -39,12 +39,12 @@ const Bed1 = (props) => {
         </span>
         <img
           alt="Rectangle131555"
-          src="/playground_assets/rectangle131555-flib-200h.png"
+          src="/external/rectangle131555-flib-200h.png"
           className="bed1-rectangle13"
         />
         <img
           alt="Rectangle141556"
-          src="/playground_assets/rectangle141556-otso.svg"
+          src="/external/rectangle141556-otso.svg"
           className="bed1-rectangle14"
         />
         <span className="bed1-text02">
@@ -55,12 +55,12 @@ const Bed1 = (props) => {
         </span>
         <img
           alt="BackArrow1556"
-          src="/playground_assets/backarrow1556-3i9.svg"
+          src="/external/backarrow1556-3i9.svg"
           className="bed1-back-arrow3"
         />
         <img
           alt="BackArrow1556"
-          src="/playground_assets/backarrow1556-wqlq.svg"
+          src="/external/backarrow1556-wqlq.svg"
           className="bed1-back-arrow4"
         />
         <span className="bed1-text06">
@@ -75,12 +75,12 @@ const Bed1 = (props) => {
         </span>
         <img
           alt="Rectangle151556"
-          src="/playground_assets/rectangle151556-5xe-200h.png"
+          src="/external/rectangle151556-5xe-200h.png"
           className="bed1-rectangle15"
         />
         <img
           alt="Rectangle161556"
-          src="/playground_assets/rectangle161556-tjtt.svg"
+          src="/external/rectangle161556-tjtt.svg"
           className="bed1-rectangle16"
         />
         <span className="bed1-text08">
@@ -92,7 +92,7 @@ const Bed1 = (props) => {
         <div className="bed1-component3">
           <img
             alt="RoomRectangleI155"
-            src="/playground_assets/roomrectanglei155-fw7-200h.png"
+            src="/external/roomrectanglei155-fw7-200h.png"
             className="bed1-room-rectangle"
           />
           <span className="bed1-text12">
@@ -105,11 +105,17 @@ const Bed1 = (props) => {
         <Link to="/" className="bed1-navlink">
           <img
             alt="image11611"
-            src="/playground_assets/image11611-we2a-200h.png"
+            src="/external/image11611-we2a-200h.png"
             className="bed1-image1"
           />
         </Link>
       </div>
+      <Link to="/bed2" className="bed1-next button">
+        <span>
+          <span>Next</span>
+          <br></br>
+        </span>
+      </Link>
     </div>
   )
 }

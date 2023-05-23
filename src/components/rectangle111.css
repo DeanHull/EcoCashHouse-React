@@ -1,0 +1,12 @@
+.rectangle111-rectangle11 {
+  width: 160px;
+  height: 80px;
+  display: flex;
+  position: relative;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-size: cover;
+  background-image: url("/external/rectangle111176-angg-200h.png");
+  background-position: center;
+}

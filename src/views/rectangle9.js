@@ -13,7 +13,7 @@ const Rectangle9 = (props) => {
       <div className="rectangle9-dummy-container">
         <img
           alt="Rectangle91175"
-          src="/playground_assets/rectangle91175-gi7-200h.png"
+          src="/external/rectangle91175-gi7-200h.png"
           className="rectangle9-rectangle9"
         />
       </div>

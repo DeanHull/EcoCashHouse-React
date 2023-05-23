@@ -244,3 +244,7 @@
   position: absolute;
   text-decoration: none;
 }
+.kitchen-next {
+  color: var(--dl-color-gray-black);
+  text-decoration: none;
+}

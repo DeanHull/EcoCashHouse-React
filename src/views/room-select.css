@@ -13,9 +13,10 @@
   display: flex;
   overflow: hidden;
   position: relative;
-  align-items: flex-start;
+  align-items: center;
   flex-shrink: 0;
   border-radius: 25px;
+  justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
 .room-select-component1 {
@@ -76,7 +77,7 @@
   position: absolute;
   text-decoration: none;
 }
-.room-select-text2 {
+.room-select-text02 {
   top: 30px;
   left: 34px;
   color: rgba(0, 0, 0, 1);
@@ -113,7 +114,7 @@
   position: absolute;
   text-decoration: none;
 }
-.room-select-text4 {
+.room-select-text04 {
   top: 30px;
   left: 34px;
   color: rgba(0, 0, 0, 1);
@@ -150,7 +151,7 @@
   position: absolute;
   text-decoration: none;
 }
-.room-select-text6 {
+.room-select-text06 {
   top: 30px;
   left: 34px;
   color: rgba(0, 0, 0, 1);
@@ -177,10 +178,23 @@
   display: contents;
 }
 .room-select-image1 {
-  top: 374px;
-  left: 158px;
+  top: 591px;
+  left: 0px;
+  right: 0px;
   width: 63px;
   height: 44px;
+  margin: auto;
   position: absolute;
   text-decoration: none;
+}
+.room-select-button {
+  width: 130px;
+  height: 55px;
+  align-self: center;
+  text-align: center;
+  padding-left: 0px;
+  background-color: rgb(217, 217, 217);
+}
+.room-select-text08 {
+  text-align: center;
 }

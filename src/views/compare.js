@@ -16,7 +16,7 @@ const Compare = (props) => {
           <Link to="/lounge" className="compare-navlink">
             <img
               alt="RoomRectangleI125"
-              src="/playground_assets/roomrectanglei125-z6ma-200h.png"
+              src="/external/roomrectanglei125-z6ma-200h.png"
               className="compare-room-rectangle"
             />
           </Link>
@@ -35,7 +35,7 @@ const Compare = (props) => {
           >
             <img
               alt="RoomRectangleI127"
-              src="/playground_assets/roomrectanglei127-kkwp-200h.png"
+              src="/external/roomrectanglei127-kkwp-200h.png"
               className="compare-room-rectangle1"
             />
           </a>
@@ -61,7 +61,7 @@ const Compare = (props) => {
           >
             <img
               alt="RoomRectangleI127"
-              src="/playground_assets/roomrectanglei127-no-200h.png"
+              src="/external/roomrectanglei127-no-200h.png"
               className="compare-room-rectangle2"
             />
           </a>
@@ -82,7 +82,7 @@ const Compare = (props) => {
           <Link to="/kitchen" className="compare-navlink1">
             <img
               alt="RoomRectangleI125"
-              src="/playground_assets/roomrectanglei125-pn2-200h.png"
+              src="/external/roomrectanglei125-pn2-200h.png"
               className="compare-room-rectangle3"
             />
           </Link>
@@ -98,7 +98,7 @@ const Compare = (props) => {
           <Link to="/bed2" className="compare-navlink2">
             <img
               alt="RoomRectangleI125"
-              src="/playground_assets/roomrectanglei125-1hi-200h.png"
+              src="/external/roomrectanglei125-1hi-200h.png"
               className="compare-room-rectangle4"
             />
           </Link>
@@ -112,14 +112,14 @@ const Compare = (props) => {
         </div>
         <img
           alt="BackArrow1254"
-          src="/playground_assets/backarrow1254-x6o.svg"
+          src="/external/backarrow1254-x6o.svg"
           className="compare-back-arrow"
         />
         <div className="compare-component3">
           <Link to="/bed1" className="compare-navlink3">
             <img
               alt="RoomRectangleI125"
-              src="/playground_assets/roomrectanglei125-oqto-200h.png"
+              src="/external/roomrectanglei125-oqto-200h.png"
               className="compare-room-rectangle5"
             />
           </Link>
@@ -134,7 +134,7 @@ const Compare = (props) => {
         <Link to="/" className="compare-navlink4">
           <img
             alt="image1I157"
-            src="/playground_assets/image1i157-rvvu-200h.png"
+            src="/external/image1i157-rvvu-200h.png"
             className="compare-image1"
           />
         </Link>

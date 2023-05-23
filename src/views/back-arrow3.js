@@ -13,7 +13,7 @@ const BackArrow3 = (props) => {
       <div className="back-arrow3-dummy-container">
         <img
           alt="BackArrow1175"
-          src="/playground_assets/backarrow1175-cuvq.svg"
+          src="/external/backarrow1175-cuvq.svg"
           className="back-arrow3-back-arrow"
         />
       </div>
