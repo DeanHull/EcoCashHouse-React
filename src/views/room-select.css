@@ -1,0 +1,186 @@
+.room-select-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.room-select-i-phone142 {
+  width: 396px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 25px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.room-select-component1 {
+  top: 235px;
+  left: 20px;
+  width: 160px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.room-select-navlink {
+  display: contents;
+}
+.room-select-room-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 160px;
+  height: 80px;
+  position: absolute;
+  text-decoration: none;
+}
+.room-select-text {
+  top: 30px;
+  left: 34px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.room-select-component2 {
+  top: 235px;
+  left: 200px;
+  width: 160px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.room-select-navlink1 {
+  display: contents;
+}
+.room-select-room-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 160px;
+  height: 80px;
+  position: absolute;
+  text-decoration: none;
+}
+.room-select-text2 {
+  top: 30px;
+  left: 34px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.room-select-component3 {
+  top: 135px;
+  left: 23px;
+  width: 160px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.room-select-navlink2 {
+  display: contents;
+}
+.room-select-room-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 160px;
+  height: 80px;
+  position: absolute;
+  text-decoration: none;
+}
+.room-select-text4 {
+  top: 30px;
+  left: 34px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.room-select-kitchen {
+  top: 135px;
+  left: 200px;
+  width: 160px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.room-select-navlink3 {
+  display: contents;
+}
+.room-select-room-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 160px;
+  height: 80px;
+  position: absolute;
+  text-decoration: none;
+}
+.room-select-text6 {
+  top: 30px;
+  left: 34px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.room-select-back-arrow {
+  top: 20px;
+  left: 40px;
+  width: 17px;
+  height: 1px;
+  position: absolute;
+}
+.room-select-navlink4 {
+  display: contents;
+}
+.room-select-image1 {
+  top: 374px;
+  left: 158px;
+  width: 63px;
+  height: 44px;
+  position: absolute;
+  text-decoration: none;
+}

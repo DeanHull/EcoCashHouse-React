@@ -1,0 +1,107 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-i-phone141 {
+  width: 396px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(238, 255, 217, 1);
+}
+.home-text {
+  top: 100px;
+  left: 40px;
+  color: rgba(2, 147, 16, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-navlink {
+  display: contents;
+}
+.home-frame1 {
+  gap: 10px;
+  top: 212px;
+  left: 117px;
+  width: 159px;
+  height: 48px;
+  display: flex;
+  padding: 0 41px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  text-decoration: none;
+  background-color: rgba(217, 217, 217, 1);
+}
+.home-navlink1 {
+  display: contents;
+}
+.home-frame2 {
+  gap: 10px;
+  top: 312px;
+  left: 119px;
+  width: 159px;
+  height: 48px;
+  display: flex;
+  padding: 0 41px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  text-decoration: none;
+  background-color: rgba(217, 217, 217, 1);
+}
+.home-text2 {
+  top: 210px;
+  left: 102px;
+  color: rgb(0, 0, 0);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text3 {
+  top: 312px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
